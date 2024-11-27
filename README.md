@@ -2,6 +2,8 @@
 
 This project applies AI and machine learning models to identify synergistic drug combinations for pancreatic cancer (PANC-1) treatment.
 
+[![DOI](https://zenodo.org/badge/807896133.svg)](https://doi.org/10.5281/zenodo.14230972)
+
 ## Installation
 
 Clone the repository:
